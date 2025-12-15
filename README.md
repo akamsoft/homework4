@@ -98,23 +98,7 @@ https://hub.docker.com/r/alexkam75/custom-nginx
 
 5.2
 
-Содержимое файла compose.yaml
-
-include:
-
-  - docker-compose.yaml
-  - 
-services:
-
-  portainer:
-  
-    network_mode: host
-    
-    image: portainer/portainer-ce:latest
-    
-    volumes:
-    
-      - /var/run/docker.sock:/var/run/docker.sock
+Файлы compose.yaml и docker-compose.yaml находится в паке: "5"
 
 ![Alt text](5/5.2.jpg)
 
@@ -128,9 +112,7 @@ services:
 
 5.5
 
-
 ![Alt text](5/5.5.jpg)
-
 
 5.6
 
