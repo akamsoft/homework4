@@ -98,6 +98,17 @@ https://hub.docker.com/r/alexkam75/custom-nginx
 
 5.2
 
+Содержимое файла compose.yaml
+
+include:
+  - docker-compose.yaml
+services:
+  portainer:
+    network_mode: host
+    image: portainer/portainer-ce:latest
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+
 ![Alt text](5/5.2.jpg)
 
 5.3
@@ -122,7 +133,4 @@ https://hub.docker.com/r/alexkam75/custom-nginx
 
 Orphan контейнеры — это контейнеры, которые были запущены ранее для этого проекта (имели имя и метки, связанные с текущим compose.yaml), но больше не описаны в текущем файле конфигурации.
 
-
-
-
-
+Файлы compose.yaml и docker-compose.yaml находится в паке: "5"
