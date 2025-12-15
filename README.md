@@ -70,3 +70,21 @@ https://hub.docker.com/r/alexkam75/custom-nginx
 
 ![Alt text](3/3.12.jpg)
 
+**Задача 4**
+
+4.1
+
+![Alt text](4/4.1.jpg)
+
+4.2
+
+![Alt text](4/4.2.jpg)
+
+4.3-4.4
+
+![Alt text](4/4.3-4.4.jpg)
+
+4.5
+
+![Alt text](4/4.5.jpg)
+
