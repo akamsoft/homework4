@@ -13,4 +13,8 @@ https://hub.docker.com/r/alexkam75/custom-nginx
 ![Alt text](2/2.3.jpg)
 ![Alt text](2/2.4.jpg)
 
+**Задача 3**
+![Alt text](3/3.1-3.2.jpg)
+![Alt text](3/3.3.jpg)
+![Alt text](3/3.4-3.5.jpg)
 
