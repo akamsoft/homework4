@@ -101,12 +101,19 @@ https://hub.docker.com/r/alexkam75/custom-nginx
 Содержимое файла compose.yaml
 
 include:
+
   - docker-compose.yaml
+  - 
 services:
+
   portainer:
+  
     network_mode: host
+    
     image: portainer/portainer-ce:latest
+    
     volumes:
+    
       - /var/run/docker.sock:/var/run/docker.sock
 
 ![Alt text](5/5.2.jpg)
@@ -121,7 +128,9 @@ services:
 
 5.5
 
+
 ![Alt text](5/5.5.jpg)
+
 
 5.6
 
