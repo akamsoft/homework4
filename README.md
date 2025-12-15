@@ -17,4 +17,12 @@ https://hub.docker.com/r/alexkam75/custom-nginx
 ![Alt text](3/3.1-3.2.jpg)
 ![Alt text](3/3.3.jpg)
 ![Alt text](3/3.4-3.5.jpg)
+![Alt text](3/3.6-3.7.jpg)
+![Alt text](3/3.8.jpg)
+![Alt text](3/3.8.1.jpg)
+![Alt text](3/3.8.2.jpg)
+![Alt text](3/3.8.jpg)
+![Alt text](3/3.10.jpg)
+![Alt text](3/3.11.jpg)
+![Alt text](3/3.12.jpg)
 
